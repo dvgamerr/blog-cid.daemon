@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/blog-cid.daemon',
+  base: '/blog-cid.daemon/',
   title: 'cid.daemon',
   description: '💥The world\'s most simple, beautiful and customizable 2 columns VuePress blog theme built with Vuetify',
   head: [
